@@ -1,0 +1,3 @@
+- [x] Convert name property in Dog class to use @property decorator syntax
+- [x] Convert breed property in Dog class to use @property decorator syntax
+- [x] Run pytest -x to verify the changes
